@@ -1,0 +1,5 @@
+{
+  "name": "Emoji Blast SPA",
+  "description": "A single-page application with five tabs representing emotions. Clicking a tab displays an emoji for 5 seconds, which then 'blasts' away, removing the tab.",
+  "requestFramePermissions": []
+}
